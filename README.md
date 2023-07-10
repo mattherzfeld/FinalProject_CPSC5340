@@ -8,3 +8,5 @@ Final Project: Firebase with Authentication for Notes/Golf Tracker-Stats Keeper 
   - Main application leads to the Golf Tracker
     - Ability to add notes/tracking stats for each hole
     - Save button / Delete Button
+  - There is a weather API attached to a Weather Button
+    - This will grab current location and show the current weather. Is it condusive to golfing today?
